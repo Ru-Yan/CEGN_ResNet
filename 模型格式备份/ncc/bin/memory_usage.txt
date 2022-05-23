@@ -1,0 +1,5 @@
+input:  800.00 KB	(819200 B)
+output:    2.34 KB	(2400 B)
+data:   62.46 MB	(65497600 B)
+MODEL:    3.14 MB	(3290136 B)
+TOTAL:   66.38 MB	(69609336 B)
